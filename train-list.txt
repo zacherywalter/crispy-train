@@ -1,5 +1,5 @@
-locomotive length = 30m
-diesel length = 25m
-ICE = 100m
-Regio = 89m
-Crispy = -56m
+locomotive length = 30m, pcount = 100
+diesel length = 25m, pcount = 80
+ICE = 100m, pcount = 200
+Regio = 89m, pcount = 160
+Crispy = -56m, pcount = -29
